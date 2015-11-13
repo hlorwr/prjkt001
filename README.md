@@ -1,4 +1,4 @@
-<p>Project 001 | Freelance Design</p>
+<p>Project 001 | Freelance </p>
 
 <p>Client: Petabyte Recyclers | Project Type: Website</p>
 
