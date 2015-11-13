@@ -2,7 +2,7 @@
 
 <p>Client: Petabyte Recyclers | Project Type: Website</p>
 
-<p>Copy provided by client</p>
+<p>Copytype provided by client.</p>
 
 <p><strong>Copyright:</strong> <br>
 © Petabyte Recyclers  <br>
