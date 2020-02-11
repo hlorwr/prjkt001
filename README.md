@@ -6,7 +6,7 @@
 
 <p><strong>Copyright:</strong> <br>
 © Petabyte Recyclers  <br>
-© hlorwar </p>
+© ksrdsgn </p>
 
 <blockquote>
   <p><em>*Intent in showcasing visual &amp; ui/ux design</em>  <br>
